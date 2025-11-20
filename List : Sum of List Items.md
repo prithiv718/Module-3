@@ -10,20 +10,14 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-def remove(str):
-l=len(str)
-a=""
-n=int(input())
-for i in range(0,l):
-if i==n:
-a=a+""
-else:
-a=a+str[i]
-print(a)
+: L=[153,147,124,102]
+print(sum(L)))
+
 ```
 
 ## Output
-<img width="505" height="110" alt="image" src="https://github.com/user-attachments/assets/1ef3176d-f9b3-436c-9772-65bd24e2a5a1" />
+<img width="400" height="156" alt="image" src="https://github.com/user-attachments/assets/746f5523-170f-4522-b96d-285437206efc" />
+
 
 
 ## Result
